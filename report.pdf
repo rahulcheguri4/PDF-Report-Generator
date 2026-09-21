@@ -1,0 +1,67 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 627 >>
+stream
+BT
+/F1 11 Tf
+50 800 Td
+(BUSINESS SALES REPORT) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(SUMMARY) Tj
+0 -18 Td
+(------------------------------) Tj
+0 -18 Td
+(Total Products : 5) Tj
+0 -18 Td
+(Total Quantity : 48) Tj
+0 -18 Td
+(Total Sales    : Rs. 135000) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(SALES DETAILS) Tj
+0 -18 Td
+(------------------------------) Tj
+0 -18 Td
+(Product | Category | Sales | Quantity) Tj
+0 -18 Td
+(Laptop | Electronics | 55000 | 5) Tj
+0 -18 Td
+(Mobile | Electronics | 30000 | 10) Tj
+0 -18 Td
+(Chair | Furniture | 15000 | 8) Tj
+0 -18 Td
+(Table | Furniture | 25000 | 5) Tj
+0 -18 Td
+(Headphones | Electronics | 10000 | 20) Tj
+0 -18 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000919 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+989
+%%EOF
