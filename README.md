@@ -1,4 +1,4 @@
-# 📄 Automated PDF Report Generator
+# 📄 PDF Report Generator
 
 A simple Python project that automatically generates a PDF business sales report from sample sales data.
 
